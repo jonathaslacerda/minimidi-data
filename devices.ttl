@@ -514,6 +514,15 @@ _:korg-sq-1 device:outputs 1 .
 _:korg-sq-1 device:typeA true .
 _:korg-sq-1 device:uri "https://www.korg.com/us/products/dj/sq_1" .
 
+# - Korg Volca FM (2) (I/O; Type A)
+_:korg-volca-fm-2 device:make "Korg" .
+_:korg-volca-fm-2 device:model "Volca FM 2" .
+_:korg-volca-fm-2 device:inputs 1 .
+_:korg-volca-fm-2 device:outputs 1 .
+_:korg-volca-fm-2 device:typeA true .
+_:korg-volca-fm-2 device:uri "https://www.korg.com/meen/products/dj/volca_fm2/specifications.php" .
+_:korg-volca-fm-2 device:notes "TRS MIDI was introduced in the mk2 version" .
+
 # - Arturia Beatstep (Out) & BS Pro (I/O; Polarity Arturia)
 _:arturia-beatstep device:make "Arturia" .
 _:arturia-beatstep device:model "Beatstep" .
